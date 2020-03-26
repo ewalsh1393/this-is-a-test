@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is the tab website</title>
+<style>
+	* {
+    	font-family: calibri light;
+        text-align: center;
+        }
+ 		body {
+        background-color: skyblue;
+       `}
+       h1 {
+       color: aquamarine;
+       }
+       p {
+       color: darkslategrey;
+       }
+       h2 {
+       color: aquamarine;
+       }
+       h3 {
+       color: aquamarine;
+       }
+       h4 { 
+       color: aquamarine;
+       }
+ #headingbox {
+ background-color: slategrey;
+ }
+ </style>
+        
+
+</head>
+<body>
+
+<div id="headingbox"><h1>BabyPilates</h1></div>
+
+
+<h2>About Us</h2>
+<p>We are a small family run business with a passion for keeping fit and healthy with our babies!</p>
+
+<h3>How to book classes</h3>
+<p>You can sign up to classes on our website, via our app or over phone</p>
+
+<h4>Where to find us</h4>
+<p>address</p>
+
+</body>
+</html>
